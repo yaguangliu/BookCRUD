@@ -11,6 +11,7 @@ class Kernel extends ConsoleKernel
      * The Artisan commands provided by your application.
      *
      * @var array
+     this is a new comment added for testing
      */
     protected $commands = [
         //
